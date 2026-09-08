@@ -240,4 +240,4 @@ This repository serves as the official landing page for Alone in The Dark. The s
 **Get the most recent version of Alone in The Dark today!**
 
 ---
-**Last updated:** 2026-09-08 05:26:22 UTC
+**Last updated:** 2026-09-08 10:15:20 UTC
